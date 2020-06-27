@@ -3,10 +3,15 @@ package demo;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.testng.annotations.Test;
 
 public class practicepattern {
 
-	public static void main(String[] args) {
+	
+	
+@Test
+public void display()
+{
 		
 		
 		
